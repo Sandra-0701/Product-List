@@ -1,0 +1,23 @@
+/* ProductList.css */
+.card {
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .card-img-top {
+    object-fit: cover;
+    height: 200px; /* Adjust image height as needed */
+  }
+  
+  .first-card {
+    /* Custom styles for the first card */
+  }
+  
+  .footer {
+    background-color: #343a40;
+    color: white;
+  }
+  
