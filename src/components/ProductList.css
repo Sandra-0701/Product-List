@@ -1,4 +1,4 @@
-/* ProductList.css */
+
 .card {
     transition: transform 0.3s ease;
   }
@@ -9,11 +9,7 @@
   
   .card-img-top {
     object-fit: cover;
-    height: 200px; /* Adjust image height as needed */
-  }
-  
-  .first-card {
-    /* Custom styles for the first card */
+    height: 200px; 
   }
   
   .footer {
